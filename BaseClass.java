@@ -44,7 +44,7 @@ public class BaseClass {
 		}
 		
 			
-			driver.get("https://mvnoconnect.telgoo5.com/api/telgoo5/index.php?TwUm+NtXUKcPsFebTXxJYucsXxh8mohjh3FyijY5mRw=");
+			driver.get("https://mvnoconnect.telgoo5.com/api/telgoo5/index.php?");
 			driver.manage().window().maximize();
 			driver.manage().timeouts().implicitlyWait(50,TimeUnit.SECONDS);
 			

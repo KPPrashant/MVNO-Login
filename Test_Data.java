@@ -56,7 +56,7 @@ public class Test_Data extends BaseClass {
 	public Object[][] tData() {
 		
 		return new Object[][] {
-			{"Dipak","Dvish@123","Valid_data"},
+			{"Dipak","Dvish@12","Valid_data"},
 			{"Patil","Test123", "Invalid_data"},
 			{"Vivek","Test@147","Invalid_data"}
 		};
